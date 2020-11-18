@@ -6,7 +6,7 @@ public class Execrise04 {
 		while (i < 10) { 
 		int	a = (int) (Math.random() * 6) + 1;
 		int	b = (int) (Math.random() * 6) + 1;
-			(int)(a + b = i);
+			( a + b = i);
 			i = 5;
 			break;
 		
