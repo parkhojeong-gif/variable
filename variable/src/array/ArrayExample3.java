@@ -22,7 +22,7 @@ public class ArrayExample3 {
 
 	}public static double doubleAvg(double[] ary) {
 		double avg = 0;
-		double avg = double
+		double avg = double;
 	}
 
 }

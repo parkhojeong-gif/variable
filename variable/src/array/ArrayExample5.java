@@ -23,10 +23,18 @@ public class ArrayExample5 {
 				{21}, //
 				{31, 32} //
 		};
+		
+		// intAry2의 배열의 각 합, 평균.... 결과 출략
+		
+		// intAry2[0] => 합: ??,  평균: ??
+		// intAry2[1] => 합: ??,  평균: ??
+		// intAry2[2] => 합: ??,  평균: ??
+		
+		
 		System.out.println(intAry2[1].length);
 		
 	
 	}
-	}
+}
 
 
